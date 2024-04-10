@@ -1,4 +1,8 @@
-### Hi there 👋
+###  👋
+
+- 🔭 I’m currently working on my CLI data generation tool, adding features and a bunch of different minor stuff
+- 🌱 I’m currently learning intersection of distributed systems and data analysis
+- 📫 How to reach me: peekknuf@gmail.com
 
 <!--
 **peekknuf/peekknuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
