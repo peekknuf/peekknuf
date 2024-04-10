@@ -1,7 +1,7 @@
 ###  👋
 
 - 🔭 I’m currently working on my CLI data generation tool, adding features and a bunch of different minor stuff
-- 🌱 I’m currently learning intersection of distributed systems and data analysis
+- 🌱 I’m currently at the intersection of distributed systems and data analysis/engineering
 - 📫 How to reach me: peekknuf@gmail.com
 
 <!--
