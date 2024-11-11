@@ -4,6 +4,8 @@
 - 🌱 Interested in the intersection of distributed systems, databases and data analysis/engineering
 - 📫 peekknuf@gmail.com
 
+- Technically self-taught.
+
 <!--
 **peekknuf/peekknuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
