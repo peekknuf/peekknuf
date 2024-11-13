@@ -1,7 +1,7 @@
 ###  👋
 
 - 🔭 I’m currently working on my CLI data generation tool, adding features and a bunch of different minor stuff
-- 🌱 Interested in the intersection of distributed systems, databases and data analysis/engineering
+- 🌱 My interests lie mainly in distributed systems, databases and analytics engineering
 - 📫 peekknuf@gmail.com
 
 - Technically self-taught.
