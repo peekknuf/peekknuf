@@ -1,8 +1,9 @@
 ###  👋
 
-- 🔭 I’m currently working on my CLI data generation tool, adding features and a bunch of different minor stuff
-- 🌱 My interests lie mainly in distributed systems, databases and analytics engineering
-- 📫 peekknuf@gmail.com
+- SQL, Python, Tableau mostly. Analytics and engineering.
+- I’m currently working on my CLI data generation tool in Golang, adding features and a bunch of different minor stuff
+- My interests lie mainly in distributed systems, databases and analytics engineering
+- peekknuf@gmail.com
 
 - Technically self-taught.
 - Talk is cheap, look at the code.
