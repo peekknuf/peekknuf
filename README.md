@@ -3,7 +3,9 @@
 - SQL, Python, Tableau mostly. Analytics and engineering.
 - I’m currently working on my CLI data generation tool in Golang, adding features and a bunch of different minor stuff
 - My interests lie mainly in distributed systems, databases (design and architecture) and analytics engineering
-- peekknuf@gmail.com
+📧 [peekknuf@gmail.com](mailto:peekknuf@gmail.com) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/maksym-ionutsa/) |  
+📊 [Tableau Public](https://public.tableau.com/app/profile/maksym.ionutsa/vizzes)
 
 - Technically self-taught.
 - Talk is cheap, look at the code.
