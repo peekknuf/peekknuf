@@ -4,7 +4,7 @@
 - I’m currently working on my CLI data generation tool in Golang, adding features and a bunch of different minor stuff
 - My interests lie mainly in distributed systems, databases (design and architecture) and analytics engineering
 
-- [peekknuf@gmail.com](mailto:peekknuf@gmail.com) 
+- [Email](mailto:peekknuf@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/maksym-ionutsa/)   
 - [Tableau Public](https://public.tableau.com/app/profile/maksym.ionutsa/vizzes)
 
