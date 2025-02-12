@@ -1,6 +1,6 @@
 ###  👋
 
-- SQL, Python, Tableau mostly. Analytics and engineering. Localization.
+- SQL, Python, Tableau mostly. Analytics. Engineering. Quality. Localization.
 - I’m currently working on my CLI data generation tool in Golang, adding features and a bunch of different minor stuff
 - My interests lie mainly in distributed systems, databases (design and architecture) and analytics engineering
 
