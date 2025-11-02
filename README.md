@@ -1,13 +1,9 @@
-###  👋
-
-- SQL, Python, Tableau mostly. Analytics. Engineering. Quality. Localization. 
-- I’m currently working on my data generation and data quality CLI tools in Golang, adding features and a bunch of different minor stuff
-- My interests lie mainly in distributed systems, databases (design and architecture) and analytics engineering
+- SQL, Python, occassional Go and TypeScript. Analytics. Engineering. Quality. Localization. 
+- My interests lie mainly in databases (design and architecture), analytics engineering and distributed systems
 - Yes, I love CLIs, if you haven't noticed yet, there's just something in it.
 
 - [Email](mailto:peekknuf@gmail.com) 
 - [LinkedIn](https://www.linkedin.com/in/maksym-ionutsa/)   
-- [Tableau Public](https://public.tableau.com/app/profile/maksym.ionutsa/vizzes)
 
 - Technically self-taught.
 - Talk is cheap, look at the code.
